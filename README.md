@@ -9,6 +9,7 @@
 
 * Website: https://emrovsky.xyz
 * Twitter: [@eemrovsky](https://twitter.com/eemrovsky)
+* Instagram: [@eemrovsky](https://instagram.com/eemrovsky)
 * Github: [@PythonGunlukleri](https://github.com/PythonGunlukleri)
 
 ## 🤝 Contributing
@@ -23,4 +24,3 @@ Give a ⭐️ if this project helped you!
 
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_

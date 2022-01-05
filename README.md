@@ -9,6 +9,7 @@
 
 * Website: https://emrovsky.xyz
 * Instagram: [@eemrovsky](https://instagram.com/eemrovsky)
+* Twitter: [@eemrovsky](https://twitter.com/eemrovsky)
 * Github: [@PythonGunlukleri](https://github.com/PythonGunlukleri)
 
 ## 🤝 Contributing

@@ -2,7 +2,7 @@
 [![Twitter: eemrovsky](https://img.shields.io/twitter/follow/eemrovsky.svg?style=social)](https://twitter.com/eemrovsky)
 
 > A simple spotify playlist downloader project made with kivy
-
+![img](https://i.imgur.com/4dmFoCO.jpg)
 ## Author
 
 👤 **Emrovsky**
